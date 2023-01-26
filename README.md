@@ -31,7 +31,7 @@
 * Вариант 12:
  ![task12](./tasks/task12.png)
 * Вариант 13:
-*  ![task13](./tasks/task13.png)
+  ![task13](./tasks/task13.png)
 * Вариант 14:
  ![task11](./tasks/task14.png)
 * Вариант 15:
