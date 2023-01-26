@@ -12,20 +12,34 @@
  ![task2](./tasks/task2.png) t ∈ \[0; 4𝜋\]
 * Вариант 3:
  ![task3](./tasks/task3.png)
-* Вариант 4: ![task4](./tasks/task4.png)
-* Вариант 5: ![task5](./tasks/task5.png)
-* Вариант 6: ![task6](./tasks/task6.png)
-* Вариант 7: ![task7](./tasks/task7.png)
-* Вариант 8: ![task8](./tasks/task8.png)
-* Вариант 9: ![task9](./tasks/task9.png)
-* Вариант 10: ![task10](./tasks/task10.png)
-* Вариант 11: ![task11](./tasks/task11.png)
-* Вариант 12: ![task12](./tasks/task12.png)
-* Вариант 13: ![task13](./tasks/task13.png)
-* Вариант 14: ![task11](./tasks/task14.png)
-* Вариант 15: ![task11](./tasks/task15.png)
-* Вариант 16: ![task16](./tasks/task16.png)
-* Вариант 17: ![task17](./tasks/task17.png) t ∈ \[0; 10𝜋\]
+* Вариант 4:
+ ![task4](./tasks/task4.png)
+* Вариант 5:
+ ![task5](./tasks/task5.png)
+* Вариант 6:
+ ![task6](./tasks/task6.png)
+* Вариант 7:
+ ![task7](./tasks/task7.png)
+* Вариант 8:
+ ![task8](./tasks/task8.png)
+* Вариант 9:
+ ![task9](./tasks/task9.png)
+* Вариант 10:
+ ![task10](./tasks/task10.png)
+* Вариант 11:
+ ![task11](./tasks/task11.png)
+* Вариант 12:
+ ![task12](./tasks/task12.png)
+* Вариант 13:
+*  ![task13](./tasks/task13.png)
+* Вариант 14:
+ ![task11](./tasks/task14.png)
+* Вариант 15:
+ ![task11](./tasks/task15.png)
+* Вариант 16:
+ ![task16](./tasks/task16.png)
+* Вариант 17:
+ ![task17](./tasks/task17.png) t ∈ \[0; 10𝜋\]
 
 **Соответствие варианта и фамилии**
 Вариант| Студент  
